@@ -1,0 +1,28 @@
+*{
+    margin: 10px;
+    padding: 0px;
+    border: 10px;
+    content: 20px;
+}
+
+body{
+    background-color: rgb(225, 241, 248);
+}
+
+.texto_destaque{
+    color: rgb(1, 57, 57);
+
+}
+
+.titule-blog{
+    color:black
+    
+}
+
+.urgente{
+    color: red;
+    border: 2px;
+    padding: 10px;
+    margin: 10px;
+    border-color: rgb(0, 0, 0);
+}

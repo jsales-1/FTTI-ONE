@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(24, 26, 44);
+    color: antiquewhite;
+    height: 100vh;
+}
+
+a {
+    text-decoration:wavy;
+    color: aquamarine;
+}
+
+strong {
+    color: rgb(183, 241, 222);
+}
